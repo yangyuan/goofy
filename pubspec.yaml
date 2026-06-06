@@ -7,8 +7,12 @@ environment:
   sdk: ^3.12.1
 
 dependencies:
+  file_selector: ^1.1.0
   flutter:
     sdk: flutter
+  flutter_litertlm:
+    path: ../flutter_litertlm
+  path_provider: ^2.1.4
 
 dev_dependencies:
   flutter_test:
